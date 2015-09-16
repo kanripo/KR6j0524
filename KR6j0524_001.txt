@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:11.074003
+#+DATE: 2015-08-30 20:34:11.561294
 #+TITLE: 般若守護十六善神王形體
 #+PROPERTY: CBETA_ID T21n1293
 #+PROPERTY: ID KR6j0524
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1293
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0524_T_000-0378a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0524_T_001-0378a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1293¶
-
- 般若守護十六善神王形體¶
+No. 1293¶
+般若守護十六善神王形體¶
 ¶
 金剛智三藏譯¶
 

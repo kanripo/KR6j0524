@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:11.561294
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 般若守護十六善神王形體
 #+PROPERTY: CBETA_ID T21n1293
 #+PROPERTY: ID KR6j0524
